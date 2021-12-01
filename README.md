@@ -3,4 +3,4 @@ Desafio Git/GitHub
 
 
 ## Links Úteis
-[Sintaxe Básica Markdown] (hhtps://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
