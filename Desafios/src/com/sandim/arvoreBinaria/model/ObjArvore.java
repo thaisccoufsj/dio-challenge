@@ -1,4 +1,4 @@
-package com.sandim.model;
+package com.sandim.arvoreBinaria.model;
 
 public abstract class ObjArvore<T> implements Comparable<T> {
 

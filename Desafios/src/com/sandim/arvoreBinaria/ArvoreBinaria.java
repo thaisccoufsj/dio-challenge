@@ -1,4 +1,4 @@
-package com.sandim;
+package com.sandim.arvoreBinaria;
 
 public class ArvoreBinaria<T extends Comparable<T>> {
 

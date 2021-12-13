@@ -1,4 +1,4 @@
-package com.sandim.model;
+package com.sandim.arvoreBinaria.model;
 
 import java.util.Objects;
 

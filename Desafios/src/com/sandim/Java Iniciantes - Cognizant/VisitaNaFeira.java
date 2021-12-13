@@ -1,5 +1,3 @@
-package com.sandim;
-
 import java.util.Scanner;
 
 public class VisitaNaFeira {

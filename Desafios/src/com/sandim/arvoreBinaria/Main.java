@@ -1,6 +1,6 @@
-package com.sandim;
+package com.sandim.arvoreBinaria;
 
-import com.sandim.model.Obj;
+import com.sandim.arvoreBinaria.model.Obj;
 
 public class Main {
 

@@ -1,11 +1,10 @@
-package com.sandim;
 import java.io.IOException;
 import java.util.Scanner;
 
 public class TempoDoDobby {
     /*
     * N = Minutos para ir embora
-    * Dobby precisa fabricas 2 presentes
+    * Dobby precisa fabricar 2 presentes
     * Descobrir se conseguirá ainda hoje
     * Entarda :
     *   N (minutos)

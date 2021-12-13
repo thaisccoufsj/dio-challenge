@@ -1,4 +1,4 @@
-package com.sandim;
+package com.sandim.arvoreBinaria;
 
 public class BinNo<T extends Comparable<T>> {
 
